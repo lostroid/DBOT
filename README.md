@@ -27,3 +27,6 @@ GUI development
 As I am working on this project independently, progress is relatively slow.   
 I plan to dedicate approximately two hours per day to DBOT as a personal hobby project rather  
 than a commercial or company-driven initiative.  
+
+
+I'm not good at English, so I used a translation.  
