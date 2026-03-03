@@ -62,6 +62,11 @@ Tasks to Do When Developing Alone
   
 4. PCB Development  
   4.1 Battery PCB  
-  <p align = "center"><img width="720" height="498" alt="Image" src="https://github.com/user-attachments/assets/c65f6b3d-515f-4cbf-b071-9020154c6f7f" /></p>
-  <p align = "center"><img width="720" height="496" alt="Image" src="https://github.com/user-attachments/assets/d1264ea0-20f2-4a0b-892b-0fb45ecb530e" /></p>
+<p align = "center"><img width="720" height="498" alt="Image" src="https://github.com/user-attachments/assets/c65f6b3d-515f-4cbf-b071-9020154c6f7f" /></p>
+<p align = "center"><img width="720" height="496" alt="Image" src="https://github.com/user-attachments/assets/d1264ea0-20f2-4a0b-892b-0fb45ecb530e" /></p>
+<p align = "center"><img width="800" height="704" alt="Image" src="https://github.com/user-attachments/assets/34eb4267-0a4c-4826-a956-71eae0bdb80f" /></p>
+<p align = "center"><img width="800" height="704" alt="Image" src="https://github.com/user-attachments/assets/44e1c0db-af4b-4281-bb4f-ea33f568e458" /></p>
+<p align = "center"><img width="800" height="737" alt="Image" src="https://github.com/user-attachments/assets/450d9217-da8e-418c-abff-0c26f0ded5fe" /></p>
+<p align = "center"><img width="800" height="685" alt="Image" src="https://github.com/user-attachments/assets/9058a5f1-2d0d-4df4-aeb4-0bcd62ccbd83" /></p>
+  
    
