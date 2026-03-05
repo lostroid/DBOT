@@ -1,5 +1,5 @@
-#KR  
-DBOT Project (B01)  
+
+DBOT Project (개발중)  
 이 프로젝트는 개인 프로젝트 입니다.  
   
 Lostroid는 사람의 잃어 버린 조각을 채워 주는 로봇을 생각 해서 만들지는 않고    
