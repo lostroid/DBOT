@@ -1,3 +1,43 @@
+
+# 2025년도 개인 프로젝트 DBOT (중단)
+### 중단 이유
+1. 너무 무거움 기구 설계의 복잡 스피커가 너무 큼.
+2. 배터리 제어 부와 상단 제어 부 생각보다 많은 작업이 필요 장시간 걸림.
+
+### 재도전
+1. 큐빅모양 경량
+2. 데스크탑 특성상 이동 위험을 고려 고정형
+3. 팔이나 머리 만 움직이는 형태 사용자를 인식 수준
+
+<p align="center">
+<img width="600" height="815" alt="image" src="https://github.com/user-attachments/assets/2e5991ed-9644-46e7-8182-533d2de4a931" />
+<img width="600" height="616" alt="image" src="https://github.com/user-attachments/assets/7722a9d8-ee05-48d3-8c40-568318ee257d" />
+</p>
+  
+## 목표  
+### 목적  
+* 책상 위에 고정된 로봇 공부  
+* 일반 DC 모터 및 BLDC 혼합 동작 공부  
+* 배터리 충전 IC 공부  
+* 전류, 전압 모니터링 공부  
+* 디스플레이 공부  
+* 터치 스크린 공부  
+* 유선 Ethernet 공부  
+* WIFI, BLUETOOTH, Zigbee  통신 공부  
+* 카메라 공부
+* MicroSD Card 공부
+* 스피커 앰프 공부
+  
+### 활용 Interface  
+* I2C : 온도 습도
+* UART : 디버깅
+* SPI : 디스플레이
+* DCMI : 카메라 (OV2640 또는 OV5640)
+* SDIO : MicroSD (FAT32) 파일시스템
+* RMII : 100MBPS PHY
+* SAI : 스피커 앰프 통신
+* ADC : 전류, 전압 모니터링
+
 <img width="957" height="712" alt="image" src="https://github.com/user-attachments/assets/e3ec6b2c-e0b1-474c-835b-3c009261b1d9" />
 
 I'm not good at English, so I used a translation.    
