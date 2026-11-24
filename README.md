@@ -4,7 +4,7 @@
 1. 너무 무거움 기구 설계의 복잡 스피커가 너무 큼.
 2. 배터리 제어 부와 상단 제어 부 생각보다 많은 작업이 필요 장시간 걸림.
 
-### 재도전
+### 다시 시작 예정
 1. 큐빅모양 경량
 2. 데스크탑 특성상 이동 위험을 고려 고정형
 3. 팔이나 머리 만 움직이는 형태 사용자를 인식 수준
@@ -38,6 +38,16 @@
 * SAI : 스피커 앰프 통신
 * ADC : 전류, 전압 모니터링
 
+### 부품 선정
+1 MCU  
+  Main 보드 : STM32H553  
+  Battery 보드: STM32C071G8U6  
+  
+2 Battery  
+  5000 mA  PCM 내장
+
+
+  
 <img width="957" height="712" alt="image" src="https://github.com/user-attachments/assets/e3ec6b2c-e0b1-474c-835b-3c009261b1d9" />
 
 I'm not good at English, so I used a translation.    
